@@ -1,3 +1,3 @@
 <?php
 
-$BRAND_NAME = 'Agency';
+$BRAND_NAME = 'Surveying';

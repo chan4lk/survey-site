@@ -1,0 +1,17 @@
+footer {
+    position: fixed;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    height:20px;
+    background:#eee;
+}
+
+.body{
+    margin-top: 60px;
+}
+
+img.welcome {
+    height: 500px;
+    width: 100%;
+}

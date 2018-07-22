@@ -1,4 +1,4 @@
-    <footer>
+    <footer class="fixed-bottom">
       <p class="copyright">&copy; Copyright <?php echo $BRAND_NAME . ' ' . Date('Y'); ?>. All Rights Reserved.</p>
     </footer>
     <!-- all javascripts go below -->
