@@ -13,11 +13,11 @@
     <div class="collapse navbar-collapse" id="navbar-collapse">
       <ul class="nav navbar-nav">
         <li<?php if ($PAGENAME === 'home') { echo ' class="active"'; } ?>><a href="/">Home</a></li>
-        <li<?php if ($PAGENAME === 'home') { echo ' class="active"'; } ?>><a href="/">Chain Surveying</a></li>
-        <li<?php if ($PAGENAME === 'home') { echo ' class="active"'; } ?>><a href="/">Plane Syrverying</a></li>
-        <li<?php if ($PAGENAME === 'home') { echo ' class="active"'; } ?>><a href="/">Auto Leveling</a></li>
-        <li<?php if ($PAGENAME === 'home') { echo ' class="active"'; } ?>><a href="/">Theodalite Surveying</a></li>
-        <li<?php if ($PAGENAME === 'home') { echo ' class="active"'; } ?>><a href="/">About</a></li>
+        <li<?php if ($PAGENAME === 'chain-survey') { echo ' class="active"'; } ?>><a href="/?page=chain-survey">Chain Surveying</a></li>
+        <li<?php if ($PAGENAME === 'plane-survey') { echo ' class="active"'; } ?>><a href="/?page=plane-survey">Plane Surveying</a></li>
+        <li<?php if ($PAGENAME === 'auto-level') { echo ' class="active"'; } ?>><a href="/?page=auto-level">Auto Leveling</a></li>
+        <li<?php if ($PAGENAME === 'theodalite-survey') { echo ' class="active"'; } ?>><a href="/?page=theodalite-survey">Theodalite Surveying</a></li>
+        <li<?php if ($PAGENAME === 'about') { echo ' class="active"'; } ?>><a href="/?page=about">About</a></li>
       </ul>
     </div>
   </div>
