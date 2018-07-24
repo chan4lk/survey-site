@@ -1,7 +1,7 @@
 <h1>Chain Survey</h1>
 <div class="row">
     <video width="100%" height="440" controls>
-        <source src="public/videos/Video_4.mkv" type="video/mp4"> Your browser does not support the video tag.
+        <source src="public/videos/Video_1.mkv" type="video/mp4"> Your browser does not support the video tag.
     </video>
 </div>
 
@@ -31,8 +31,8 @@
         </ul>
     </div>
     <div class="col-md-6">
-        <img class="col-md-6 img-responsive" src="public/images/Image_6.jpg" />
-        <img class="col-md-6 img-responsive" src="public/images/Image_6.jpg" />
+        <img class="col-md-6 img-responsive" src="public/images/Image_2.jpg" />
+        <img class="col-md-6 img-responsive" src="public/images/Image_3.jpg" />
     </div>
 </div>
 <div class="row">
